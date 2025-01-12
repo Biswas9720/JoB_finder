@@ -10,7 +10,7 @@ include 'constants/check-login.php';
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>Nightingale Jobs - Job Portal</title>
+	<title>Job-Finder</title>
 	<meta name="description" content="Online Job Management / Job Portal" />
 	<meta name="keywords" content="job, work, resume, applicants, application, employee, employer, hire, hiring, human resource management, hr, online job management, company, worker, career, recruiting, recruitment" />
 	<meta name="author" content="BwireSoft">
@@ -20,7 +20,7 @@ include 'constants/check-login.php';
     <meta property="og:image:type" content="image/jpeg" />
     <meta property="og:image:width" content="500" />
     <meta property="og:image:height" content="300" />
-    <meta property="og:image:alt" content="Nightingale Jobs" />
+    <meta property="og:image:alt" content="Job-Finder" />
     <meta property="og:description" content="Online Job Management / Job Portal" />
 
 	<link rel="shortcut icon" href="images/ico/favicon.png">
@@ -84,29 +84,29 @@ include 'constants/check-login.php';
 					
 					<div id="navbar" class="navbar-nav-wrapper navbar-arrow">
 					
-						<ul class="nav navbar-nav" id="responsive-menu">
+						<ul class="nav navbar-nav" id="responsive-menu" >
 						
-							<li>
+							<li >
 							
-								<a href="./">Home</a>
+								<a href="./" class="cap">Home</a>
 								
 							</li>
 							
 							<li>
-								<a href="job-list.php">Job List</a>
+								<a href="job-list.php" class="cap">Job List</a>
 
 							</li>
 							
 							<li>
-								<a href="employers.php">Employers</a>
+								<a href="employers.php" class="cap">Employers</a>
 							</li>
 							
 							<li>
-								<a href="employees.php">Employees</a>
+								<a href="employees.php" class="cap">Employees</a>
 							</li>
 							
 							<li>
-								<a href="contact.php">Contact Us</a>
+								<a href="contact.php" class="cap">Contact Us</a>
 							</li>
 
 						</ul>
@@ -175,7 +175,7 @@ include 'constants/check-login.php';
 				<div class="container">
 
 					<h1>your bright future starts here now</h1>
-					<p>Finding your next job or career on Nightingale Jobs</p>
+					<p>Finding your next job on Job-Finder</p>
 
 					<div class="main-search-form-wrapper">
 					

@@ -92,25 +92,25 @@ $page = 1;
 						
 							<li>
 							
-								<a href="./">Home</a>
+								<a href="./" class="cap">Home</a>
 								
 							</li>
 							
 							<li>
-								<a href="job-list.php">Job List</a>
+								<a href="job-list.php" class="cap">Job List</a>
 
 							</li>
 							
 							<li>
-								<a href="employers.php">Employers</a>
+								<a href="employers.php" class="cap">Employers</a>
 							</li>
 							
 							<li>
-								<a href="employees.php">Employees</a>
+								<a href="employees.php" class="cap">Employees</a>
 							</li>
 							
 							<li>
-								<a href="contact.php">Contact Us</a>
+								<a href="contact.php" class="cap">Contact Us</a>
 							</li>
 
 						</ul>

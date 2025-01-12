@@ -68,25 +68,25 @@ include 'constants/check-login.php';
 						
 							<li>
 							
-								<a href="./">Home</a>
+								<a href="./" class="cap">Home</a>
 								
 							</li>
 							
 							<li>
-								<a href="job-list.php">Job List</a>
+								<a href="job-list.php" class="cap">Job List</a>
 
 							</li>
 							
 							<li>
-								<a href="employers.php">Employers</a>
+								<a href="employers.php" class="cap">Employers</a>
 							</li>
 							
 							<li>
-								<a href="employees.php">Employees</a>
+								<a href="employees.php" class="cap">Employees</a>
 							</li>
 							
 							<li>
-								<a href="contact.php">Contact Us</a>
+								<a href="contact.php" class="cap">Contact Us</a>
 							</li>
 
 						</ul>
@@ -174,7 +174,7 @@ include 'constants/check-login.php';
 						
 							<div class="section-title">
 							
-								<h2>Contact us for help</h2>
+								<h2 class="cap">Contact Us</h2>
 								
 							</div>
 
@@ -237,13 +237,13 @@ include 'constants/check-login.php';
 							<ul class="address-list">
 								<li>
 										<h5>Address</h5>
-										<address> Takoradi, <br/> PO.BOX AX40, <br/>School Junction</address>
+										<address> Pokhara, Nepal</address>
 								</li>
 								<li>
-										<h5>Email</h5><a href="mailto:nightingale.nath2@gmail.com">nightingale.nath2@gmail.com</a>
+										<h5>Email</h5><a href="sujanacharya531@gmail.com">sujanacharya531@gmail.com</a>
 								</li>
 								<li>
-										<h5>Phone Number</h5><a href="tel:+233 546 607 474">+233 546 607 474</a>
+										<h5>Phone Number</h5><a href="tel:+977 9826189697">+977 9826189697</a>
 								</li>
 
 								<li>

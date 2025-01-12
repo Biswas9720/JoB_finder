@@ -50,7 +50,7 @@ $title = "Job List";
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>Nightingale Jobs - <?php echo "$title"; ?></title>
+	<title>Job-Finder  <?php echo "$title"; ?></title>
 	<meta name="description" content="Online Job Management / Job Portal" />
 	<meta name="keywords" content="job, work, resume, applicants, application, employee, employer, hire, hiring, human resource management, hr, online job management, company, worker, career, recruiting, recruitment" />
 	<meta name="author" content="BwireSoft">
@@ -111,25 +111,25 @@ $title = "Job List";
 						
 							<li>
 							
-								<a href="./">Home</a>
+								<a href="./" class="cap">Home</a>
 								
 							</li>
 							
 							<li>
-								<a href="job-list.php">Job List</a>
+								<a href="job-list.php" class="cap">Job List</a>
 
 							</li>
 							
 							<li>
-								<a href="employers.php">Employers</a>
+								<a href="employers.php" class="cap">Employers</a>
 							</li>
 							
 							<li>
-								<a href="employees.php">Employees</a>
+								<a href="employees.php" class="cap">Employees</a>
 							</li>
 							
 							<li>
-								<a href="contact.php">Contact Us</a>
+								<a href="contact.php" class="cap">Contact Us</a>
 							</li>
 
 						</ul>

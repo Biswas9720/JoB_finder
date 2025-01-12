@@ -133,7 +133,7 @@ header("location:../");
 				<div class="container">
 				
 					<ol class="breadcrumb-list booking-step">
-						<li><a href="../">Bwire Jobs</a></li>
+						<li><a href="../">Jobs</a></li>
 						<li><span>Profile</span></li>
 					</ol>
 					
@@ -181,7 +181,7 @@ header("location:../");
 									
 									<ul class="admin-user-menu clearfix">
 										<li  class="active">
-											<a href="./"><i class="fa fa-user"></i> Profile</a>
+											<a href="./" class="cap"><i class="fa fa-user"></i> Profile</a>
 										</li>
 										<li class="">
 										<a href="change-password.php"><i class="fa fa-key"></i> Change Password</a>
@@ -226,8 +226,8 @@ header("location:../");
 
 									<div class="admin-section-title">
 									
-										<h2>Profile</h2>
-										<p>Your last loged-in: <span class="text-primary"><?php echo "$mylogin"; ?></span></p>
+										<h2 class="cap">Profile</h2>
+										<!-- <p>Your last loged-in: <span class="text-primary"><?php echo "$mylogin"; ?></span></p> -->
 										
 									</div>
 									
