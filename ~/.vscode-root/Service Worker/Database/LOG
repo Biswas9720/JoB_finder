@@ -1,2 +1,3 @@
-2025/01/11-15:15:17.036 29c3 Creating DB /opt/lampp/htdocs/OnlineJobPortal/~/.vscode-root/Service Worker/Database since it was missing.
-2025/01/11-15:15:17.040 29c3 Reusing MANIFEST /opt/lampp/htdocs/OnlineJobPortal/~/.vscode-root/Service Worker/Database/MANIFEST-000001
+2025/01/12-14:59:04.491 316b2 Reusing MANIFEST /opt/lampp/htdocs/JoB_finder/~/.vscode-root/Service Worker/Database/MANIFEST-000001
+2025/01/12-14:59:04.496 316b2 Recovering log #3
+2025/01/12-14:59:04.496 316b2 Reusing old log /opt/lampp/htdocs/JoB_finder/~/.vscode-root/Service Worker/Database/000003.log 

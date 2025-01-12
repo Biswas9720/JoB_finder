@@ -1,2 +1,3 @@
-2025/01/11-15:15:13.700 29c3 Creating DB /opt/lampp/htdocs/OnlineJobPortal/~/.vscode-root/Local Storage/leveldb since it was missing.
-2025/01/11-15:15:13.714 29c3 Reusing MANIFEST /opt/lampp/htdocs/OnlineJobPortal/~/.vscode-root/Local Storage/leveldb/MANIFEST-000001
+2025/01/12-14:59:04.491 316b3 Reusing MANIFEST /opt/lampp/htdocs/JoB_finder/~/.vscode-root/Local Storage/leveldb/MANIFEST-000001
+2025/01/12-14:59:04.496 316b3 Recovering log #3
+2025/01/12-14:59:04.496 316b3 Reusing old log /opt/lampp/htdocs/JoB_finder/~/.vscode-root/Local Storage/leveldb/000003.log 

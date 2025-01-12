@@ -6,14 +6,15 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///opt/lampp/htdocs/OnlineJobPortal"
+                "folderUri": "file:///opt/lampp/htdocs/JoB_finder"
             }
         ],
         "emptyWindows": []
     },
     "profileAssociations": {
         "workspaces": {
-            "file:///opt/lampp/htdocs/OnlineJobPortal": "__default__profile__"
+            "file:///opt/lampp/htdocs/OnlineJobPortal": "__default__profile__",
+            "file:///opt/lampp/htdocs/JoB_finder": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -72,6 +73,17 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///opt/lampp/htdocs/JoB_finder",
+                                        "path": "/opt/lampp/htdocs/JoB_finder",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/opt/lampp/htdocs/JoB_finder"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -140,6 +152,13 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
+                                {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
@@ -768,8 +787,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1701,8 +1719,8 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///opt/lampp/htdocs/OnlineJobPortal",
-            "backupPath": "/opt/lampp/htdocs/OnlineJobPortal/~/.vscode-root/Backups/04b4e12297f62b7e7c47742efe26d6f0",
+            "folder": "file:///opt/lampp/htdocs/JoB_finder",
+            "backupPath": "/opt/lampp/htdocs/JoB_finder/~/.vscode-root/Backups/2df0a01147c52e9d3bc2f7ce37602205",
             "uiState": {
                 "mode": 0,
                 "x": 5,
