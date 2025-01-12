@@ -66,7 +66,7 @@ include 'constants/check-login.php';
 <body class="home">
 
 
-	<div id="introLoader" class="introLoading"></div>
+	<!-- <div id="introLoader" class="introLoading"></div> -->
 
 	<div class="container-wrapper">
 
@@ -661,7 +661,7 @@ include 'constants/check-login.php';
 <script type="text/javascript" src="js/jquery.countimator.wheel.js"></script>
 <script type="text/javascript" src="js/slick.min.js"></script>
 <script type="text/javascript" src="js/easy-ticker.js"></script>
-<script type="text/javascript" src="js/jquery.introLoader.min.js"></script>
+<!-- <script type="text/javascript" src="js/jquery.introLoader.min.js"></script> -->
 <script type="text/javascript" src="js/jquery.responsivegrid.js"></script>
 <script type="text/javascript" src="js/customs.js"></script>
 
